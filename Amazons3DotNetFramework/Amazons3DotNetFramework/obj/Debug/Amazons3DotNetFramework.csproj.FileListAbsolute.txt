@@ -1,0 +1,9 @@
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\bin\Debug\Amazons3DotNetFramework.exe.config
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\bin\Debug\Amazons3DotNetFramework.exe
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\bin\Debug\Amazons3DotNetFramework.pdb
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\bin\Debug\AWSSDK.dll
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\bin\Debug\AWSSDK.pdb
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\obj\Debug\Amazons3DotNetFramework.csprojAssemblyReference.cache
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\obj\Debug\Amazons3DotNetFramework.csproj.CopyComplete
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\obj\Debug\Amazons3DotNetFramework.exe
+C:\Users\TuHV\source\repos\Amazons3DotNetFramework\Amazons3DotNetFramework\obj\Debug\Amazons3DotNetFramework.pdb

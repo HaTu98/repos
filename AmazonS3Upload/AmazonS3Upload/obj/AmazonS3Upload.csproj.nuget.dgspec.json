@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TuHV\\source\\repos\\AmazonS3Upload\\AmazonS3Upload\\AmazonS3Upload.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TuHV\\source\\repos\\AmazonS3Upload\\AmazonS3Upload\\AmazonS3Upload.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TuHV\\source\\repos\\AmazonS3Upload\\AmazonS3Upload\\AmazonS3Upload.csproj",
+        "projectName": "AmazonS3Upload",
+        "projectPath": "C:\\Users\\TuHV\\source\\repos\\AmazonS3Upload\\AmazonS3Upload\\AmazonS3Upload.csproj",
+        "packagesPath": "C:\\Users\\TuHV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TuHV\\source\\repos\\AmazonS3Upload\\AmazonS3Upload\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TuHV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.104.42, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

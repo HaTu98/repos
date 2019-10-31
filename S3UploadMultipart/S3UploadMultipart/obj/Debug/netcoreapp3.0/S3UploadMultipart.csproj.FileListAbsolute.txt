@@ -1,0 +1,14 @@
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.exe
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.csprojAssemblyReference.cache
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.AssemblyInfoInputs.cache
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.AssemblyInfo.cs
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.csproj.CopyComplete
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.dll.config
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.deps.json
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.runtimeconfig.json
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.runtimeconfig.dev.json
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.dll
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\S3UploadMultipart.pdb
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\bin\Debug\netcoreapp3.0\AWSSDK.dll
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.dll
+C:\Users\TuHV\source\repos\S3UploadMultipart\S3UploadMultipart\obj\Debug\netcoreapp3.0\S3UploadMultipart.pdb

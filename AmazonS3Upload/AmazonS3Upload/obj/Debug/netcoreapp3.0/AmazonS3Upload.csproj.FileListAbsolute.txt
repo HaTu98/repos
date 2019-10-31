@@ -1,0 +1,4 @@
+C:\Users\TuHV\source\repos\AmazonS3Upload\AmazonS3Upload\bin\Debug\netcoreapp3.0\AmazonS3Upload.exe
+C:\Users\TuHV\source\repos\AmazonS3Upload\AmazonS3Upload\obj\Debug\netcoreapp3.0\AmazonS3Upload.csprojAssemblyReference.cache
+C:\Users\TuHV\source\repos\AmazonS3Upload\AmazonS3Upload\obj\Debug\netcoreapp3.0\AmazonS3Upload.AssemblyInfoInputs.cache
+C:\Users\TuHV\source\repos\AmazonS3Upload\AmazonS3Upload\obj\Debug\netcoreapp3.0\AmazonS3Upload.AssemblyInfo.cs
